@@ -1,4 +1,4 @@
-# Awesome Name [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Sustainable Agriculture [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -7,32 +7,80 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-> A curated list of resources for
+> A curated list of practices, technologies, platforms, and research supporting environmentally sustainable, regenerative, and resilient agriculture.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Regenerative Agriculture](#regenerative-agriculture)
+- [Soil Health & Carbon](#soil-health--carbon)
+- [Precision & Resource Efficiency](#precision--resource-efficiency)
+- [Water Management](#water-management)
+- [Sustainable Inputs & Practices](#sustainable-inputs--practices)
+- [Data & Monitoring](#data--monitoring)
+- [Research & Organizations](#research--organizations)
 
-## Section
+## Regenerative Agriculture
 
-About this section. Keep this short and focused on what the resources represent.
+Approaches and platforms focused on restoring ecosystems, improving soil, and enhancing biodiversity.
 
-- [Example Project One](https://example.com/project-one) — Short, neutral description of what this resource does.
-- [Example Project Two](https://example.com/project-two) — Short, neutral description of what this resource does.
+- [Regrow](https://www.regrow.ag/) — Platform for monitoring and verifying regenerative agriculture practices.
+- [Agreena](https://agreena.com/) — Carbon farming platform supporting regenerative practices and carbon markets.
+- [Savory Institute](https://savory.global/) — Organization promoting holistic land management and regenerative grazing.
 
-## Another Section
+## Soil Health & Carbon
 
-### Subsection
+Tools and initiatives focused on soil quality, carbon sequestration, and long-term land productivity.
 
-- [Example Tool One](https://example.com/tool-one) — Short, neutral description of what this resource does.
-- [Example Tool Two](https://example.com/tool-two) — Short, neutral description of what this resource does.
+- [Cool Farm Tool](https://coolfarmtool.org/) — Tool for measuring greenhouse gas emissions and environmental impact.
+- [Soil Health Institute](https://soilhealthinstitute.org/) — Research organization focused on soil science and sustainability.
+- [COMET-Farm](https://comet-farm.com/) — Carbon and greenhouse gas accounting tool for agriculture.
+
+## Precision & Resource Efficiency
+
+Technologies that optimize resource use such as fertilizers, water, and energy.
+
+- [John Deere Precision Agriculture](https://www.deere.com/en/technology-products/precision-ag-technology/) — Tools for optimizing field operations and reducing input waste.
+- [Trimble Agriculture](https://agriculture.trimble.com/) — Precision agriculture solutions for efficient farming.
+- [Raven Precision](https://ravenind.com/) — Technologies for precision application and resource management.
+
+## Water Management
+
+Systems and tools for efficient irrigation, water conservation, and monitoring.
+
+- [CropX](https://www.cropx.com/) — Soil and irrigation management platform using sensor data.
+- [Netafim](https://www.netafim.com/) — Drip irrigation solutions for water-efficient agriculture.
+- [OpenET](https://openetdata.org/) — Open platform providing evapotranspiration data for water management.
+
+## Sustainable Inputs & Practices
+
+Solutions focused on reducing environmental impact through inputs and farming practices.
+
+- [Indigo Ag](https://www.indigoag.com/) — Platform for sustainable agriculture, biological inputs, and carbon markets.
+- [Pivot Bio](https://www.pivotbio.com/) — Microbial nitrogen solutions reducing synthetic fertilizer use.
+- [Yara Climate Choice](https://www.yara.com/crop-nutrition/climate-choice/) — Lower-carbon fertilizer solutions.
+
+## Data & Monitoring
+
+Platforms and tools for tracking sustainability metrics and environmental performance.
+
+- [FarmLogs](https://farmlogs.com/) — Farm data platform for tracking field performance and inputs.
+- [Taranis](https://taranis.com/) — AI-powered crop monitoring and analytics.
+- [Planet Labs](https://www.planet.com/) — Satellite data for monitoring land use and environmental changes.
+
+## Research & Organizations
+
+Academic, nonprofit, and collaborative initiatives supporting sustainable agriculture.
+
+- [FAO (Food and Agriculture Organization)](https://www.fao.org/) — Global organization focused on food security and sustainable agriculture.
+- [CGIAR](https://www.cgiar.org/) — Global research partnership for agricultural innovation.
+- [Rodale Institute](https://rodaleinstitute.org/) — Research organization focused on organic and regenerative agriculture.
 
 ## Related Awesome Lists
 
-- [Awesome Example One](https://example.com/awesome-one) — Short, neutral description of the related list.
-- [Awesome Example Two](https://example.com/awesome-two) — Short, neutral description of the related list.
-  
+- [Awesome AgTech](https://github.com/brandonhimpfen/awesome-agtech) — Technologies and platforms driving agricultural innovation.
+- [Awesome Agricultural Data & Analytics](https://github.com/brandonhimpfen/awesome-agricultural-data-and-analytics) — Tools for agricultural data and decision-making.
+- [Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability) — Resources for environmental sustainability and climate solutions.
+
 ## Contribute
 
 Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
@@ -42,14 +90,3 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-## Maintenance
-
-This template includes GitHub Actions workflows for automated link checking:
-
-- **Links (PR)** checks Markdown links on pull requests.
-- **Links (Scheduled → Issue)** runs weekly and opens or updates an issue if it finds broken links.
-
-You can tune link checking behavior in `lychee.toml`.
-
-Automated checks: link checking (PR + weekly), duplicate URL detection, and a lightweight Awesome List lint.
