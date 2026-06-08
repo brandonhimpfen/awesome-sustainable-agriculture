@@ -66,6 +66,7 @@ Platforms and tools for tracking sustainability metrics and environmental perfor
 - [FarmLogs](https://farmlogs.com/) — Farm data platform for tracking field performance and inputs.
 - [Taranis](https://taranis.com/) — AI-powered crop monitoring and analytics.
 - [Planet Labs](https://www.planet.com/) — Satellite data for monitoring land use and environmental changes.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server for AI agent trust scoring. Verify autonomous farm monitoring agents before x402 micropayments. Free tools for agent identity verification on Solana.
 
 ## Research & Organizations
 
